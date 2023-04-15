@@ -11,6 +11,8 @@ public class OpenBrowser {
         driver=new ChromeDriver();
         driver.get("http://hrm.syntaxtechs.net/humanresources/symfony/web/index.php/auth/login");
 
+        System.out.println("How are you ne var you ");
+
     }
 
     }
