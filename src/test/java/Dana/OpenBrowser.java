@@ -12,6 +12,7 @@ public class OpenBrowser {
         driver.get("http://hrm.syntaxtechs.net/humanresources/symfony/web/index.php/auth/login");
 
         System.out.println("How are you ne var you ");
+        System.out.println("abracadabra");
 
     }
 
